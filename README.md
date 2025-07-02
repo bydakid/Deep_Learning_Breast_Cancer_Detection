@@ -1,6 +1,4 @@
 # Deep Learning Breast Cancer Detection  
-Link -> https://bydakid.com/cancer/development
-
 **Using CNNs for Mammogram Classification**  
 
 This project explores the application of deep learning—specifically Convolutional Neural Networks (CNNs)—for breast cancer detection using mammogram images. It evaluates how well these models perform compared to radiologists and aims to support early cancer diagnosis through assistive AI tools.
@@ -34,3 +32,4 @@ Inspired by the role of early detection in cancer survival, this project address
 - **Model**: 5-layer CNN with Dropout and Early Stopping  
 - **Dataset Size**: 451 mammogram images (binary classification)
 
+Link -> https://bydakid.com/cancer/development
